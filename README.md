@@ -1,6 +1,6 @@
 # StudioSpace — Peer-to-Peer Creative Workspace & Production Studio Sharing Platform 📽️🎬
 
-[![Live Website](https://img.shields.io/badge/Live%20Demo-StudioSpace%20Platform-orange.svg)](https://studiospace-platform.vercel.app)
+[![Live Website](https://img.shields.io/badge/Live%20Demo-StudioSpace%20Platform-orange.svg)](https://client-pi-three-30.vercel.app)
 [![Tech Stack](https://img.shields.io/badge/Stack-Next.js%2016%20%7C%20Express%20%7C%20MongoDB-blue.svg)](#tech-stack)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -10,7 +10,8 @@
 
 ## 🌐 Live Website & Repositories
 
-- **Live Application URL**: [https://studiospace-platform.vercel.app](https://studiospace-platform.vercel.app)
+- **Live Application URL**: [https://client-pi-three-30.vercel.app](https://client-pi-three-30.vercel.app)
+- **Live API (Server)**: [https://server-lac-ten-53.vercel.app](https://server-lac-ten-53.vercel.app)
 - **Client-Side Repository**: [StudioSpace Client Repository](https://github.com/razzak-dev007/studiospace-client)
 - **Server-Side Repository**: [StudioSpace Server Repository](https://github.com/razzak-dev007/studiospace-server)
 

@@ -94,7 +94,7 @@ export default function FeaturedStudios() {
         {!loading && error && (
           <div className="p-8 rounded-3xl bg-rose-500/10 border border-rose-500/20 text-center">
             <p className="text-rose-600 dark:text-rose-400 font-semibold mb-2">{error}</p>
-            <p className="text-xs text-zinc-500">Ensure the backend server is running on port 5000.</p>
+            <p className="text-xs text-zinc-500">Please try refreshing the page. If the issue persists, the server may be waking up — try again in a moment.</p>
           </div>
         )}
 
